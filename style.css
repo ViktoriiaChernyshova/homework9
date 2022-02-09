@@ -71,9 +71,8 @@ body{
     background-color: transparent;
     padding: 10px 25px;
     margin-left: 40px;
-    transition: 0.2s ease;
-    cursor: pointer;
 }
+
 .header-info button:hover{
     background-color: #F13C6E;
 }
@@ -125,7 +124,6 @@ hr{
     border: 2px solid white;
     background-color: transparent;
     padding: 9px 47px;
-    transition: 0.2s ease;
 }
 
 .btn:hover{
@@ -134,9 +132,9 @@ hr{
 }
 
 .title-2{
-font-size: 24px;
-margin-top: 80px;
-font-weight: 700;
+    font-size: 24px;
+    margin-top: 80px;
+    font-weight: 700;
 }
 
 .box{
@@ -230,10 +228,10 @@ text-decoration: none;
 padding: 9px 47px;
 } */
 
-.table{
+/* .table{
 
-/* width: 1110px;
-height: 357px; */
+width: 1110px;
+height: 357px;
 background: #FFFFFF;
 border: 1px solid #333333;
 transform: rotate(90deg)
@@ -247,11 +245,11 @@ transform: rotate(90deg)
     margin-bottom: 35px;
     margin-right: 60px;
     margin-left: 60px;
-}
+} */
 
 /* .zal{
-    background-image: url(img/impulse.png);
-    width: 149px;
+background-image: url(img/impulse.png);
+width: 149px;
 height: 49px;
 margin-top: 35px;
 margin-left: 60px;
